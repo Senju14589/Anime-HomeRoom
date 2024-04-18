@@ -1,0 +1,10 @@
+.imageTitle {
+    margin-bottom: 30px;
+    display: flex;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
